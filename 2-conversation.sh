@@ -1,6 +1,6 @@
 #!/bin/bash
 Person1=renu
-person2=ria
+Person2=ria
 
-echo "$person1: hi $person2"
-echo "$person2: hi $person1"
+echo "$Person1: hi $Person2"
+echo "$Person2: hi $Person1"
